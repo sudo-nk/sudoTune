@@ -2,7 +2,7 @@
 ### *Pure Black AMOLED • Audiophile DSP Engine • 120Hz Fluid Gestures • 100% Offline*
 
 <p align="center">
-  <img src="./screenshots/sudotune_banner.png" alt="sudoTune Cyberpunk Logo" width="220" style="border-radius: 24px;" />
+  <img src="./Screenshots/sudotune_banner.png" alt="sudoTune Cyberpunk Logo" width="220" style="border-radius: 24px;" />
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@
 
 | Home & Vinyl LP Albums | Now Playing & Audio Badges | 10-Band Equalizer & DSP |
 |:---:|:---:|:---:|
-| ![Home Screen](./screenshots/01_home_screen.png) | ![Now Playing Screen](./screenshots/02_now_playing.png) | ![Equalizer Screen](./screenshots/03_equalizer_dsp.png) |
+| ![Home Screen](./Screenshots/01_home_screen.png) | ![Now Playing Screen](./Screenshots/02_now_playing.png) | ![Equalizer Screen](./Screenshots/03_equalizer_dsp.png) |
 
 | Library & Fast Alphabet Scroller | Playlists & Drag Reorder | Up-Next Playback Queue |
 |:---:|:---:|:---:|
-| ![Library Browser](./screenshots/04_library_browser.png) | ![Playlists Screen](./screenshots/05_playlists_reorder.png) | ![Playback Queue](./screenshots/06_playback_queue.png) |
+| ![Library Browser](./Screenshots/04_library_browser.png) | ![Playlists Screen](./Screenshots/05_playlists_reorder.png) | ![Playback Queue](./Screenshots/06_playback_queue.png) |
 
 ---
 
