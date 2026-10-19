@@ -12,6 +12,22 @@
   <a href="#-version-history--release-archive"><img src="https://img.shields.io/badge/Release-v3.1.2%20(Build%20312)-32DDEB?style=for-the-badge&logo=android" alt="Release"></a>
 </p>
 
+## 🚀 Download sudoTune
+
+Get the latest version of **sudoTune** for Android.
+
+[![Download APK](https://img.shields.io/badge/Download-sudoTune%20APK-32DDEB?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/file/d/1aHRL1WmSlNQgs14k4OmSdtP-Xykr6x-U/view?usp=sharing)
+
+**[⬇️ Download sudoTune APK](https://drive.google.com/file/d/1aHRL1WmSlNQgs14k4OmSdtP-Xykr6x-U/view?usp=sharing)**
+
+1. Open the download link above.
+2. Click the **Download** icon in Google Drive.
+3. Open the downloaded APK on your Android device.
+4. If prompted, allow your browser or file manager to install unknown apps.
+5. Install sudoTune and enjoy your music! 🎧
+
+> **Note:** Android may display a security warning when installing APKs from outside the Play Store.
+
 ---
 
 > ### 🛡️ Trust & Security Statement
